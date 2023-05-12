@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "dicsys",
+    "password": "k38jsn44G",
+    "database": "asistencias",
+    "host": "172.30.0.136",
+    "dialect": "mysql"    
+  }
+}
